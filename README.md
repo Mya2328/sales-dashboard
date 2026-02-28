@@ -52,7 +52,7 @@ The dashboard enables:
 ---
 
 ## Screenshots
-(Add screenshots below)
+
 
 ![Dashboard Overview](images/Visualization1.png)
 
