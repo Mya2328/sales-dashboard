@@ -54,8 +54,8 @@ The dashboard enables:
 ## Screenshots
 (Add screenshots below)
 
-![Dashboard Overview](images/Visualization1.jpg)
-![Regional Analysis](images/region.png)
+![Dashboard Overview](images/Visualization1.png)
+
 
 ---
 
